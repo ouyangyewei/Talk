@@ -1,6 +1,2 @@
-# Talk
-Personal Talk
-
-Demo
-=====
-http://ouyangyewei.duapp.com/index.php
+# Demo
+http://talk.ouyangyewei.me
